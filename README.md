@@ -44,7 +44,7 @@ The goal of this repo is be a centralized source of information, technical and n
    3. [Link Extension]()
    4. [My Cite]()
 5. [Branding]
-   1. 
+   1. [Phrases]
 
 
 # The Reason
@@ -61,7 +61,7 @@ The citor
 
 Society
 
-Creativity is a social behavior. Though we mythologize the solitary creative genius, for the most part creativity a conversation between the influencer and influenced. This conversation is in a very real sense beautiful and also sacred. But at the same time any good willed influenced person must see the value and moral imperitive of recognition to maintain this beautiful and sacred conversation, for a variety of reason it is almost never given unless legally compelled. Why is this?
+Creativity is a social behavior. Though we mythologize the solitary creative genius, for the most part creativity a conversation between the influencer and influenced. This conversation is in a very real sense beautiful and also sacred. But at the same time any good willed influenced person must see the value and moral imperitive of recognition to maintain this beautiful and sacred conversation, for a variety of reason it is almost never given unless legally or socially compelled. Why is this?
 
 I submit that the are 4 reason for this:
 
@@ -130,4 +130,5 @@ Connections
 Arb Metadata
 
 
-  
+### phrases
+   ”I see you“
